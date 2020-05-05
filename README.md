@@ -35,7 +35,8 @@ You can access it by visiting http://localhost:8080
 
 
 # API
-Visit https://localhost:8080/api
+To view the API
+visit https://localhost:8080/@docs
 Then click `Authorize`
 
 Use the default credentials:

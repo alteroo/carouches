@@ -12,11 +12,22 @@ For more information about Grange visit the [original guillotina/grange repo](ht
 Make sure you have docker and docker-compose installed.
 
 To get started check out the code and run the following:
-
 ```
 git clone https://github.com/alteroo/carouches
+```
+
+Then start it
+```
+cd carouches
+./start.sh
+```
+
+or if you prefer a lengthier more explicit command
+
+```
 cd carouches
 docker-compose -f g-api/docker-compose.yaml up
+```
 ```
 It will launch the service on port 8080.
 

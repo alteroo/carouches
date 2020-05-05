@@ -28,7 +28,6 @@ or if you prefer a lengthier more explicit command
 cd carouches
 docker-compose -f g-api/docker-compose.yaml up
 ```
-```
 It will launch the service on port 8080.
 
 You can access it by visiting http://localhost:8080

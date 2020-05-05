@@ -34,3 +34,10 @@ It will launch the service on port 8080.
 You can access it by visiting http://localhost:8080
 
 
+
+# API
+Visit https://localhost:8080/api
+Then click `Authorize`
+Use the default credentials:
+
+root:root

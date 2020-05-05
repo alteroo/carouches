@@ -39,5 +39,7 @@ Visit https://localhost:8080/api
 Then click `Authorize`
 
 Use the default credentials:
-
-root:root
+```
+username:root
+password:root
+```
